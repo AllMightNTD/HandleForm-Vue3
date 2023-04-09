@@ -7,7 +7,7 @@
                 <div>
                     <input
                         name="password"
-                        type="text"
+                        type="password"
                         v-model="userData.newPassword"
                         placeholder="Password new"
                         class="w-full outline-none text-[#dbeee3] px-[15px] text-[17px] bg-transparent border-b-[5px]"
@@ -17,7 +17,7 @@
                 <div>
                     <input
                         name="confirmpassword"
-                        type="text"
+                        type="password"
                         v-model="userData.confirmPassword"
                         placeholder="Confirm Password"
                         class="w-full outline-none text-[#dbeee3] px-[15px] text-[17px] bg-transparent border-b-[5px]"

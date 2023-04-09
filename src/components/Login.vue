@@ -17,7 +17,7 @@
                 <div>
                     <input
                         name="password"
-                        type="text"
+                        type="password"
                         @blur="validate()"
                         v-model="userData.password"
                         placeholder="Password"
