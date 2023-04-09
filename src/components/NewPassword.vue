@@ -27,7 +27,7 @@
                     type="submit"
                     class="outline-none w-full bg-[#3970b0] justify-center flex items-center h-[50px] font-normal text-[16px] text-white"
                 >
-                    Register
+                    Login
                 </button>
                 <div class="flex items-center justify-center">
                     <span class="text-center text-[16px] text-[#fff]"
